@@ -1,4 +1,4 @@
-Olá, seja bemvindo a mais um projeto em Phyton:
+Olá, seja bem vindo a mais um projeto em Phyton:
 😉👍
 
 ↪ Link para o site 😀👇
