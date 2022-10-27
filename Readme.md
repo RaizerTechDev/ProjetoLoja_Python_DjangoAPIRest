@@ -1,5 +1,9 @@
-Olá, sejabemvindo a mais um projeto em Phyton:
+Olá, seja bemvindo a mais um projeto em Phyton:
 😉👍
+
+↪ Link para o site 😀👇
+
+### https://rafarz76dev.github.io/Projeto-Loja-em-Python-Django-com-API-Rest/
 
 🚀Projeto com uma ferramenta Python framework Django no Pycharm.
 
