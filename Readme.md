@@ -3,7 +3,7 @@ Olá, seja bem vindo a mais um projeto em Phyton:
 
 ↪ Link para o site 😀👇
 
-### https://rafarz76dev.github.io/Projeto-Loja-em-Python-Django-com-API-Rest/
+###  https://rafarz76dev.github.io/ProjetoLoja_Python_DjangoAPIRest/
 
 🚀Projeto com uma ferramenta Python framework Django no Pycharm.
 
